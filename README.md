@@ -1,1 +1,1 @@
-# nostar-animation
+# no.star-animation
